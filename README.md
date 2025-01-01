@@ -17,13 +17,7 @@ The **Hotel Reservation System Simulation** is a Java-based project that demonst
 - **Object-Oriented Programming**: The system is designed using classes and objects to represent customers, rooms, bookings, and other system components.
 - **Algorithms**: Utilizes efficient algorithms to manage room availability and ensure quick responses for customer actions.
 
-## Installation Instructions
-
 ### Prerequisites
 - **Java Development Kit (JDK)**: Version 8 or later.
 - **IDE**: Any Java IDE (e.g., IntelliJ IDEA, Eclipse) or a simple text editor.
 
-### Setting Up the Project
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/yourusername/hotel-reservation-system.git
